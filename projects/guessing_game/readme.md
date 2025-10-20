@@ -62,4 +62,4 @@ This game is based on the [official Rust book’s tutorial](https://doc.rust-lan
 ---
 
 ## ✍️ Author
-[@Arnob_b](https://github.com/Arnob_b)
+[@Arnob-B](https://github.com/Arnob-B/)
